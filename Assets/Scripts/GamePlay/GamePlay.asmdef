@@ -1,0 +1,22 @@
+{
+    "name": "GamePlay",
+    "rootNamespace": "Scrpits.GamePlay",
+    "references": [
+        "GUID:18d73b249eb3607478196f39f7969f23"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "macOSStandalone",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
